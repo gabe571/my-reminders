@@ -6,3 +6,5 @@ function Todo({ todo }) {
     </div>
   );
 };
+
+export default Todo
